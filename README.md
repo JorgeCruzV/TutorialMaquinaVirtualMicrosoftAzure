@@ -1,10 +1,14 @@
 #TUTORIAL DE MICRISOFT AZURE, PARA GENERACIÓN DE MÁQUINAS VIRTUALES
+
+
 1.	OBJETIVOS:
+
 a.	Objetivo principal:
-i.	Comprender el proceso de creación de una máquina virtual, mediante el uso de Microsoft Azure.
+
+	i.	Comprender el proceso de creación de una máquina virtual, mediante el uso de Microsoft Azure.
 b.	Objetivos secundarios:
-i.	Analizar las herramientas y características que nos brinda Microsoft Azure para generar máquinas virtuales.
-ii.	Observar las aplicaciones que podrían llegar a tener nuestra máquina virtual, analizando sus ventajas.
+	i.	Analizar las herramientas y características que nos brinda Microsoft Azure para generar máquinas virtuales.
+	ii.	Observar las aplicaciones que podrían llegar a tener nuestra máquina virtual, analizando sus ventajas.
 
 2.	MARCO TEÓRICO:
 En informática, una máquina virtual es un software que simula un sistema de computación y puede ejecutar programas como si fuese una computadora real. Este software en un principio fue definido como "un duplicado eficiente y aislado de una máquina física". La acepción del término actualmente incluye a máquinas virtuales que no tienen ninguna equivalencia directa con ningún hardware real.

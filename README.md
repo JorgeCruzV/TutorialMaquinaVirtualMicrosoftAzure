@@ -6,8 +6,11 @@
 a.	Objetivo principal:
 
 	i.	Comprender el proceso de creación de una máquina virtual, mediante el uso de Microsoft Azure.
+	
 b.	Objetivos secundarios:
+
 	i.	Analizar las herramientas y características que nos brinda Microsoft Azure para generar máquinas virtuales.
+	
 	ii.	Observar las aplicaciones que podrían llegar a tener nuestra máquina virtual, analizando sus ventajas.
 
 2.	MARCO TEÓRICO:

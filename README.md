@@ -1,5 +1,7 @@
 #TUTORIAL DE MICRISOFT AZURE, PARA GENERACIÓN DE MÁQUINAS VIRTUALES
 
+[Aquí la descripción de la imagen por si no carga](https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/1.png)
+
 
 1.	OBJETIVOS:
 
@@ -28,7 +30,7 @@ Implemente máquinas virtuales que tengan hasta 416 vCPU y 12 TB de memoria. Con
 
 A. TIPOS DE MÁQUINAS QUE OFRECE MICROSOFT AZURE 
 
-! .[.]_(https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/1.png)
+
 
 
 3.- DETALLES DE LICENCIA OBTENIDA:

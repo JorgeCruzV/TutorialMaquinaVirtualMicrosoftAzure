@@ -1,6 +1,6 @@
 #TUTORIAL DE MICRISOFT AZURE, PARA GENERACIÓN DE MÁQUINAS VIRTUALES
 
-[Aquí la descripción de la imagen por si no carga](https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/1.png)
+![]_(https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/1.png)
 
 
 1.	OBJETIVOS:

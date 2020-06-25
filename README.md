@@ -30,6 +30,18 @@ Implemente máquinas virtuales que tengan hasta 416 vCPU y 12 TB de memoria. Con
 
 A. TIPOS DE MÁQUINAS QUE OFRECE MICROSOFT AZURE 
 
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/1.%20SERIE%20A.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/2.%20SERIE%20BS.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/3.%20SERIE%20D.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/4.%20SERIE%20DC.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/5.%20SERIE%20E.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/6.%20SERIE%20F.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/7.%20SERIE%20G.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/8.%20SERIE%20H.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/9.%20SERIE%20LS.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/10.%20SERIE%20M.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/11.%20SERIE%20MV2.png)
+![]( https://github.com/JorgeCruzV/TutorialMaquinaVirtualMicrosoftAzure/blob/master/Imagenes/12.%20SERIE%20N.png)
 
 
 
